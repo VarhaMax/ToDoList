@@ -1,0 +1,14 @@
+/private/tmp/checklist-rename-bin/ChecklistConsole
+/private/tmp/checklist-rename-bin/ChecklistConsole.deps.json
+/private/tmp/checklist-rename-bin/ChecklistConsole.runtimeconfig.json
+/private/tmp/checklist-rename-bin/ChecklistConsole.dll
+/private/tmp/checklist-rename-bin/ChecklistConsole.pdb
+/Users/varhamax/Documents/GitHub/ToDoList/csharp-implem/ChecklistConsole/obj/Debug/net10.0/ChecklistConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/varhamax/Documents/GitHub/ToDoList/csharp-implem/ChecklistConsole/obj/Debug/net10.0/ChecklistConsole.AssemblyInfoInputs.cache
+/Users/varhamax/Documents/GitHub/ToDoList/csharp-implem/ChecklistConsole/obj/Debug/net10.0/ChecklistConsole.AssemblyInfo.cs
+/Users/varhamax/Documents/GitHub/ToDoList/csharp-implem/ChecklistConsole/obj/Debug/net10.0/ChecklistConsole.csproj.CoreCompileInputs.cache
+/Users/varhamax/Documents/GitHub/ToDoList/csharp-implem/ChecklistConsole/obj/Debug/net10.0/ChecklistConsole.dll
+/Users/varhamax/Documents/GitHub/ToDoList/csharp-implem/ChecklistConsole/obj/Debug/net10.0/refint/ChecklistConsole.dll
+/Users/varhamax/Documents/GitHub/ToDoList/csharp-implem/ChecklistConsole/obj/Debug/net10.0/ChecklistConsole.pdb
+/Users/varhamax/Documents/GitHub/ToDoList/csharp-implem/ChecklistConsole/obj/Debug/net10.0/ChecklistConsole.genruntimeconfig.cache
+/Users/varhamax/Documents/GitHub/ToDoList/csharp-implem/ChecklistConsole/obj/Debug/net10.0/ref/ChecklistConsole.dll
